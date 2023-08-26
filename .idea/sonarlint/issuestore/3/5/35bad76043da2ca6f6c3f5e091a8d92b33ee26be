@@ -1,0 +1,7 @@
+
+fphp:S103+"KSplit this 301 characters long line (which is greater than 120 authorized).(Â²¤‘8ƒ±ãÐ¢1
+fphp:S103/"KSplit this 121 characters long line (which is greater than 120 authorized).(Äò¥’8ƒ±ãÐ¢1
+dphp:S1030"KSplit this 203 characters long line (which is greater than 120 authorized).(Ëë›íþÿÿÿÿ
+ephp:S103O"KSplit this 370 characters long line (which is greater than 120 authorized).(Ë° 8„±ãÐ¢1
+kphp:S103Q"KSplit this 194 characters long line (which is greater than 120 authorized).( –Û°üÿÿÿÿ8„±ãÐ¢1
+_php:S103R"KSplit this 186 characters long line (which is greater than 120 authorized).(Ì’œ·
